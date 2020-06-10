@@ -1,0 +1,19 @@
+{
+  "name": "freecode1",
+  "version": "1.0.0",
+  "description": "firstnode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzzddd/freecode1.git"
+  },
+  "author": "zzuu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzzddd/freecode1/issues"
+  },
+  "homepage": "https://github.com/zzzddd/freecode1#readme"
+}
